@@ -4,7 +4,7 @@ Using 'react-spring' and 'react-use-gesture' libraries.
 
 ## App
 
-disneytinder.netlify.app
+https://disneytinder.netlify.app/
 
 
 
