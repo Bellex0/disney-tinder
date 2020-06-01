@@ -8,6 +8,7 @@ return(
 <>
 <h1>Disney Tinder <span role="img" aria-label="heart emoji">🖤</span></h1>
 <Deck />
+<footer></footer>
 </>
 )
 }
